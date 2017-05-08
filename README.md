@@ -5,7 +5,7 @@ React Native: Beacons (iOS and Android)
 
 Assuming you already have:
 - `NodeJS >= 6.x`
-- `React Native` tools ([React Native website will explain better than me what it is about](https://facebook.github.io/react-native/docs/getting-started.html))
+- `React Native` tools ([React Native](https://facebook.github.io/react-native/docs/getting-started.html))
 
 Steps to install:
 - clone this repository
@@ -36,6 +36,6 @@ react-native link
 
 Any beacon should work just enter the right `uuid`.
 
-#### You have no beacon... but you have an alternate iOS device, great!
+#### iOS device can become an alternative beacon!
 
 This device can become your beacon like emitter thanks to [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
